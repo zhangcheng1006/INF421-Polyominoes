@@ -24,7 +24,7 @@ Simply remove the “//” before each function in the main function to test dif
 *********Methods**********
 
 - public static void test1()
-- Test the creation of a polynomio from a String.
+Test the creation of a polynomio from a String.
 
 - public static void test2() 
 - Create a list of polynomio from a text file “Polynomioes INF421.txt”.
