@@ -21,13 +21,15 @@ There are 9 functions to test different functions of “Polynomio”.
 
 Simply remove the “//” before each function in the main function to test different functions.
 
-*********Methods**********
+*Methods
 
 - public static void test1()
+
 Test the creation of a polynomio from a String.
 
 - public static void test2() 
-- Create a list of polynomio from a text file “Polynomioes INF421.txt”.
+
+Create a list of polynomio from a text file “Polynomioes INF421.txt”.
 
 - public static void test3()
 - Test the elementary transformations.
