@@ -2,8 +2,11 @@
 This is a project of polyomino tilings and exact cover algorithm.
 
 ————————————————————————
+
 Test
+
 ————————————————————————
+
 This class test the exact cover problem and the dancing links structure.
 
 There are 7 different instance predefined allowing to test our algorithms.
